@@ -39,8 +39,7 @@ Contact: You can leave your email now or update it later as you prefer.
 
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests with improvements or bug fixes.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Contact
 You can reach me at: hjamilx89@gmail.com
 
