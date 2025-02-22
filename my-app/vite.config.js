@@ -14,5 +14,6 @@ export default defineConfig({
   rollupOptions: {
       treeshake: true, // Removes unused JS
   }
-  }
+  },
+  base: '/', // Ensures proper routing for deployment
 });
