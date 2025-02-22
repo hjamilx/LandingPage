@@ -1,0 +1,6 @@
+.navbar-border {
+    border-bottom: 3px solid;
+    border-image-source: linear-gradient(to right, #6a11cb, #2575fc);
+    border-image-slice: 1;
+  }
+  
